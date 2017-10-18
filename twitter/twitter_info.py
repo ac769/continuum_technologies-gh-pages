@@ -1,0 +1,5 @@
+CONSUMER_KEY =       			"dCuF7egJg0DyNWByNLoxzgXB7"
+CONSUMER_SECRET =             	"e5rJZvGtsoZ1AjgKeWlZeeD7OF5HuWjcoO1rAegPY9oMgZh2Z6"
+OAUTH_TOKEN =	                "843791236381184000-BA4GkK04e1PxrCFsotE63i4mxFmCTQl"
+OAUTH_SECRET =                 	"kVDp5DNCXVTdsDmuMprFEiTucjYFRkXfvpP4Ijm9t2upP"
+TWITTER_HANDLE =                 "continuum_wear"
